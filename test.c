@@ -22,3 +22,4 @@ Master:
 
 Bug1:
 The first change for bug 1
+The first change for bug 2
